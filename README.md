@@ -1,1 +1,2 @@
 # TRX-CPU-RIG
+CPU cloud Miner of PROMURALI
